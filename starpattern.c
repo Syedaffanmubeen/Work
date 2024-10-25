@@ -1,3 +1,14 @@
+// Test case 1 : 
+
+// Enter n : 4
+
+//       *
+
+//     * * *
+
+//   * * * * *
+
+// * * * * * * *
 #include <stdio.h>
 
 int main() {
