@@ -1,3 +1,10 @@
+  // Test case 1 : 
+  
+  // Enter n : 9
+  
+  // Enter m : 3
+  
+  // $$$***$$$
 #include<stdio.h>
 int main()
 {
